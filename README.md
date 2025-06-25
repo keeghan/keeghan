@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @keeghan
-- 👀 I’m interested in native Android app development in Java and Kotlin
+- 👀 I’m interested in mobile developement with both native andriod and flutter.
 - 🌱 My passions iclude 3D visualization in Blender3D.
 - 💞️ I’m looking to collaborate on android development projects.
 - 📫 You can reach me through email: Eghan20@gmail.com
